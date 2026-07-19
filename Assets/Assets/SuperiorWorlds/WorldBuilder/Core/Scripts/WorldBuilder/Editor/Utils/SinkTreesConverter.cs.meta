@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 09160ce84a1254b408f251757ad1f403
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258550
+  packageName: World Builder
+  packageVersion: 1.0
+  assetPath: Assets/SuperiorWorlds/WorldBuilder/Core/Scripts/WorldBuilder/Editor/Utils/SinkTreesConverter.cs
+  uploadId: 610376

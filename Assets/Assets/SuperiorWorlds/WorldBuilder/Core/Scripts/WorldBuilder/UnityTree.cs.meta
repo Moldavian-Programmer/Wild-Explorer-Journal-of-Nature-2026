@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24e488e3f0be8d749a4dfc53f74ab30b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258550
+  packageName: World Builder
+  packageVersion: 1.0
+  assetPath: Assets/SuperiorWorlds/WorldBuilder/Core/Scripts/WorldBuilder/UnityTree.cs
+  uploadId: 610376

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a25e732396017e0448cf893ad87ce4c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258550
+  packageName: World Builder
+  packageVersion: 1.0
+  assetPath: Assets/SuperiorWorlds/WorldBuilder/Core/Scripts/WorldBuilder/WorldBuilder.cs
+  uploadId: 610376

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a90ddaaa827f6254cbc601a6be153cc5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startPost: {instanceID: 0}
+  - endPost: {instanceID: 0}
+  - fenceSegmentPrefab: {fileID: 4848514252216451415, guid: ddae8703de8a63742af7ff389827b4eb, type: 3}
+  - generatedFenceParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

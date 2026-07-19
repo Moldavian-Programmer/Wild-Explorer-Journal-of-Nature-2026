@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1376f35ed3a980c499e0b024519d1c26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258550
+  packageName: World Builder
+  packageVersion: 1.0
+  assetPath: Assets/SuperiorWorlds/WorldBuilder/Demo/Textures/Grass2.terrainlayer
+  uploadId: 610376
